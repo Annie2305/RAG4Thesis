@@ -55,7 +55,7 @@ What 3D printing techniques did they use in their research?
 **Output Format:**  
 The system retrieves and generates answers **separately by author**, like the example below:
 
-![Sample output image](./ml_output.png)
+![Sample output image](./sample_output.png)
 
 
 
