@@ -57,7 +57,7 @@ The system retrieves and generates answers **separately by author**, like the ex
 
 ![Sample output image](./sample_output.png)
 
-### For more detailes, please click [RAG4Thesis](./RAG4Thesis.pdf)
+### For more details, please click [RAG4Thesis](./RAG4Thesis.pdf)
 
 
 
